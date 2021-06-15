@@ -82,7 +82,7 @@ Click on each cell to run individually:
 
 Running these 2 cells shows the confusion matrix and the classification report of the logistic regression prediction from the model.
 
-![Code Example]()
+![Code Example](https://github.com/talibkateeb/Logistic-Regression-Credit-Risk-Analysis/blob/main/Example-Code.png)
 
 ---
 
